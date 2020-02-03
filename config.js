@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Gatsby.js Blog deploying on Netlify when pushed to Github',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 7,
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
